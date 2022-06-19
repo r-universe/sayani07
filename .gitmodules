@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gghdr"]
+	path = gghdr
+	url = https://github.com/sayani07/gghdr
+	shallow = true
+	registered = true
+[submodule "gravitas"]
+	path = gravitas
+	url = https://github.com/sayani07/gravitas
+	shallow = true
+	registered = true
