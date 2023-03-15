@@ -1,10 +1,10 @@
 [
   {
-    "package": "gravitas",
+    "package": "gghdr",
     "oncran": true
   },
   {
-    "package": "gghdr",
+    "package": "gravitas",
     "oncran": true
   }
 ]
